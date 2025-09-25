@@ -6,4 +6,5 @@ Research-Paper/*
 !Research-Paper/.gitkeep
 Documentation/*
 !Documentation/.gitkeep
+!src/datascripts/
 
